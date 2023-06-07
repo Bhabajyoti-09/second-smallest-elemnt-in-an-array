@@ -1,0 +1,1 @@
+# second-smallest-elemnt-in-an-array
